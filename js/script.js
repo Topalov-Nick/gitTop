@@ -2,6 +2,7 @@
 
 let age = 20;
 let namee = "Никита";
+let namee1 = "Игорь";
 let single = false;
 console.log(typeof age);
 console.log(typeof namee);
